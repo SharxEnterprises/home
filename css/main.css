@@ -2611,6 +2611,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .footer-area {
   padding-top: 100px;
   background-color: #04091e;
+  justify-content: center;
 }
 
 h6 {
@@ -2746,6 +2747,7 @@ h6 {
 @media (max-width: 800px) {
   .social-widget {
     margin-top: 30px;
+    justify-content: center;
   }
 }
 
