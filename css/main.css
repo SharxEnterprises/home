@@ -49,6 +49,10 @@
   font-weight: 300;
 }
 
+#half-star{
+  color: #FFA500;
+}
+
 body {
   color: #777777;
   font-family: "Poppins", sans-serif;

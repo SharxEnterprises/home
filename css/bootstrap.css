@@ -2733,9 +2733,9 @@ fieldset:disabled a.btn {
 }
 
 .btn-link:focus, .btn-link.focus {
-  text-decoration: underline;
+  /* text-decoration: underline;
   border-color: transparent;
-  box-shadow: none;
+  box-shadow: none; */
 }
 
 .btn-link:disabled, .btn-link.disabled {
