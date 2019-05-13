@@ -4,7 +4,7 @@
 /* Mobile Layout: 320px */
 /* Wide Mobile Layout: 480px */
 /* =================================== */
-/*  Basic Style 
+/*  Basic Style
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
@@ -47,6 +47,10 @@
   /* Microsoft Edge */
   color: #777777;
   font-weight: 300;
+}
+
+#half-star{
+  color: #FFA500;
 }
 
 body {
@@ -2607,10 +2611,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-size: 12px;
   }
 }
-#half-star {
-  color:#FFA700;
 
-}
 .footer-area {
   padding-top: 100px;
   background-color: #04091e;
@@ -2743,12 +2744,14 @@ h6 {
 @media (max-width: 991.98px) {
   .single-footer-widget {
     margin-bottom: 30px;
+    margin-left: 10cm;
   }
 }
 
 @media (max-width: 800px) {
   .social-widget {
     margin-top: 30px;
+    justify-content: center;
   }
 }
 
